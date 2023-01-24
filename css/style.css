@@ -1,0 +1,36 @@
+.borda {
+  border: 2px solid #8338ec;
+}
+.painel {
+  background-color: #8338ec;
+  text-align: center;
+}
+
+.borda2 {
+  border-bottom: 1px solid #ffbe0b;
+}
+
+span {
+  color: white;
+  background-color: #3a86ff;
+}
+
+/* Calculadora */
+
+.fundo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: linear-gradient(360deg, #d1b4f8, #8338ec);
+}
+.box {
+  width: 215px;
+  border-radius: 10px;
+  border: 1px solid #8338ec;
+  margin: 5px;
+  height: 40px;
+  font-size: 25px;
+  text-align: right;
+  padding: 5px;
+}
